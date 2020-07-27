@@ -1,5 +1,5 @@
 import React from "react"
-
+import Number from "../components/Number"
 export default function Home() {
-  return <div>Hello world!</div>
+  return <Number />
 }
